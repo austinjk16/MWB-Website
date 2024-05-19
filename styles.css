@@ -80,7 +80,6 @@
 }
 
 h1 {
-  position: absolute;
   width: 100%;
   text-align: center;
   font-family: "Jacquard 24", system-ui;
@@ -165,7 +164,6 @@ h2 {
 .gallery h2 {
   color: #fd0a38;
   margin: 20px;
-  tw
 }
 
 .gallery-images {
